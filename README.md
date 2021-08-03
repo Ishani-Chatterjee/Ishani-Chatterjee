@@ -7,19 +7,15 @@
 
 - 🌱 I’m currently learning **Springboot,Hibernate**
 
-- 👯 I’m looking to collaborate on [Teammates](https://github.com/TEAMMATES/teammates)
 
-- 👨‍💻 All of my projects are available at [https://ishani-chatterjee.github.io/desktopPortfolio/](https://ishani-chatterjee.github.io/desktopPortfolio/)
-
-- 📝 I regularly write articles here are the samples: [https://drive.google.com/drive/folders/1LAktVnGY-Zixo-kVgNiJkkhPCvxPUJiX?usp=sharing](https://drive.google.com/drive/folders/1LAktVnGY-Zixo-kVgNiJkkhPCvxPUJiX?usp=sharing)
+- 📝 I regularly write articles here are the samples: [Link to articles](https://drive.google.com/drive/folders/1LAktVnGY-Zixo-kVgNiJkkhPCvxPUJiX?usp=sharing)
 
 - 💬 Ask me about **Java,Spring**
 
 - 📫 How to reach me **ishanichat1810@gmail.com**
 
-- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1p3__a_-cT9525Bf4RJA-kmfqeTvTdeWy/view?usp=sharing](https://drive.google.com/file/d/1p3__a_-cT9525Bf4RJA-kmfqeTvTdeWy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p3__a_-cT9525Bf4RJA-kmfqeTvTdeWy/view?usp=sharing)
 
-- ⚡ Fun fact **I like reading astronomical stuffs and time travel explanation videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
