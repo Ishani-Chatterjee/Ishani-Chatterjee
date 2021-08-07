@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles here are the samples: [Link to articles](https://drive.google.com/drive/folders/1LAktVnGY-Zixo-kVgNiJkkhPCvxPUJiX?usp=sharing)
 
-- 💬 Ask me about **Java,Spring**
+- 💬 Ask me about **Java,Spring,RestAPI**
 
 - 📫 How to reach me **ishanichat1810@gmail.com**
 
